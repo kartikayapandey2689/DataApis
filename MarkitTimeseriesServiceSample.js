@@ -131,7 +131,7 @@ Markit.TimeseriesService.prototype.oChartOptions = {
 	//,credits:{ enabled:false },
 };
 
-new Markit.TimeseriesService("GOOG", 365);
+new Markit.TimeseriesService("APPL", 365);
 
 /**
 * Need help? Visit the API documentation at:
